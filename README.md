@@ -4,14 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a set of GIS Flutter application experiments.
+Hopefully, it is usefull anyone who spends time reading it.
 
-A few resources to get you started if this is your first Flutter project:
+All code here can be used and reused as per your wish :) 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_location_app
+do check out our website : https://xtnds.wordpress.com
