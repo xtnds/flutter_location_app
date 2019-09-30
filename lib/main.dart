@@ -32,7 +32,7 @@ class _MyLocationState extends State<MyApp>{
             onPressed: () async{
               Position position = await Geolocator().getCurrentPosition(desiredAccuracy: LocationAccuracy.high);
               print("Latitude ="+ position.latitude.toString() +" :: Longitude = "+position.longitude.toString() );
-  
+              print('');
 
               setState(() {
                 lat = position.latitude.toString();
